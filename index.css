@@ -1,0 +1,36 @@
+body{
+    background: url(https://external-preview.redd.it/8YvhitM4SQrYFqypYfLE5JfLEWi7PcpKfc-MJv6nOSA.jpg?auto=webp&s=0a598f97314128bcf136aba133401b593ca76e99)no-repeat;
+    background-size: 100%;
+}
+.cm-input{
+    display: block;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%; 
+    margin: 14px auto;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    }
+    .btn-login{
+        display: block;
+        width: 100%;
+        padding: 10px;
+        border: 0;
+        border-radius: 20px;
+        cursor: pointer;   
+    }  h2{
+        text-align: center;
+        color:darkolivegreen;
+        font-size: xx-large;
+    }
+    form{
+        margin-top: 5%;
+        margin-left: 5%;
+        margin-right: 5%;
+        border: 10px solid black;
+    }
+ h1{text-align: center;
+    font-size: 300%;
+    color: brown;
+
+ }
